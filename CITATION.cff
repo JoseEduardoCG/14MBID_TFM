@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ' 14MBID_TFM'
+message: Trabajo Fin de Máster VIU - Jose Eduardo Cámara Gómez
+type: software
+authors:
+  - given-names: Jose Eduardo
+    family-names: Cámara Gómez
+    email: jcamaragomez@alumnos.viu.es
+abstract: >-
+  Cuadernos en Jupyter Notebook sobre TFM para regresión de
+  GMD en dataset de cerdo porcino
+keywords:
+  - GMD
+  - Regresión
+  - CRISP-DM
+commit: Initial Version
+version: 1.0.0
+date-released: '2023-04-01'
